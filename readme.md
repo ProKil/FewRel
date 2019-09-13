@@ -16,7 +16,7 @@ If you used our data, toolkits or baseline models, please kindly cite our paper:
 ```
 
 
-If you have questions about any part of the paper, submission, leaderboard, codes, data, please e-mail zhuhao15@mails.tsinghua.edu.cn.
+If you have questions about any part of the paper, submission, leaderboard, codes, data, please e-mail zhuhao@cmu.edu.
 
 ## Contributions
 
